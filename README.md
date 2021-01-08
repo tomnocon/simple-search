@@ -1,2 +1,3 @@
-# simple-search
-Simple search - command line tool
+# Simple search
+
+A simple search command line tool.
